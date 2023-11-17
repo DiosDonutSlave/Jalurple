@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "jal_edm",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "name": "Jalurple"
     },
     "background": {
@@ -13,14 +13,14 @@
         "*": "https:\/\/github.com\/DiosDonutSlave\/Jalurple\/raw\/b77d88e3105e440574c02953842a0d7a6e4ee6b9\/gg%20sans%20Medium.ttf"
     },
     "simple_colors": {
-        "accent": -791306,
-        "background": 1462636603,
-        "background_secondary": 1545275939,
-        "mention_highlight": -1874122388,
+        "accent": -4022574,
+        "background": -1221717957,
+        "background_secondary": 1092291107,
+        "mention_highlight": -481613460,
         "active_channel": -9699169,
-        "statusbar": -2071723840,
-        "input_background": -1554309002,
-        "blocked_bg": -916774794
+        "statusbar": -398327712,
+        "input_background": -614784906,
+        "blocked_bg": -346349450
     },
     "colors": {
         "brand": -8257373,
@@ -35,12 +35,12 @@
         "uikit_btn_bg_color_selector_background_accent_light": -1,
         "uikit_btn_bg_color_selector_green": -1644826,
         "uikit_btn_bg_color_selector_red": -8110684,
-        "uikit_btn_bg_color_selector_secondary_dark": -1,
+        "uikit_btn_bg_color_selector_secondary_dark": -5407038,
         "uikit_btn_bg_color_selector_secondary_light": -1620049781,
         "uikit_btn_compound_color_selector_light": -5351996,
         "chat_input_button_tint_colors_dark": -7667510,
         "primary_dark_300": -6662451,
-        "primary_dark_100": -1841160366,
+        "primary_dark_100": -767418542,
         "primary_dark_200": -66305,
         "primary_dark_360": -5407038,
         "primary_dark_400": -8110684,
@@ -54,11 +54,13 @@
         "primary_dark_800": -366084029,
         "primary_700_alpha_60": -8110684,
         "dim_foreground_material_light": -10805130,
-        "white_500": -404738,
-        "primary_dark_630": -14808538,
+        "white_500": -66561,
+        "primary_dark_630": -551679450,
         "status_grey_200": -1990657,
         "primary_light_660": -10805130,
-        "uikit_btn_bg_color_selector_brand": -6791757
+        "uikit_btn_bg_color_selector_brand": -6791757,
+        "primary_700": -531421593,
+        "primary_300": -9161328
     },
     "drawable_tints": {
         "drawable_button_grey": -8482671,
@@ -67,14 +69,15 @@
         "ic_channel_announcements": -12443822,
         "ic_channel_announcements_16dp": -13036470,
         "ic_channel_text": -10805130,
-        "ic_status_dnd_16dp": -2490290,
-        "ic_status_idle_16dp": -24832,
-        "ic_status_online_16dp": -5242625,
-        "ic_status_streaming_16dp": -5407038,
+        "ic_status_dnd_16dp": -1212249,
+        "ic_status_idle_16dp": -12416,
+        "ic_status_online_16dp": -2588417,
+        "ic_status_streaming_16dp": -7151444,
         "ic_status_invisible_16dp": -11769738,
         "design_bottom_navigation_item_background": -13036470,
         "abc_action_bar_item_background_material": -5635849,
-        "drawable_voice_indicator_speaking": -5407038
+        "drawable_voice_indicator_speaking": -5407038,
+        "gradient_transparent_colorbackgroundsecondary": -10805130
     },
     "raws": {}
 }
